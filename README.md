@@ -1,2 +1,3 @@
 # Python-components
-A dump of small python components that will be used as reference. 
+A dump of python some of my work that is used as reference material 
+
